@@ -1,0 +1,17 @@
+{
+    "title": "JSON (JavaScript Object Notation)",
+    "subtext": "Lightweight and readable data exchange format",
+    "categories": ["Data Format"],
+    "author": "halukerenozlu",
+    "description": {
+        "title": "JSON (JavaScript Object Notation)",
+        "texts": [
+            "JSON is a text format that facilitates structured data exchange across all programming languages. With its use of curly braces, square brackets, colons, and commas, it is useful in many contexts and applications."
+        ],
+        "image": "https://businesscentralgeek.com/wp-content/uploads/2023/12/image-7.png",
+        "references": [
+            "https://tr.wikipedia.org/wiki/JSON",
+            "https://www.json.org/json-en.html"
+        ]
+    }
+}

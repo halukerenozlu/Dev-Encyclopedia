@@ -1,0 +1,18 @@
+{
+    "title": "SaaS (Software as a Service)",
+    "subtext": "Cloud-based software delivered over the internet",
+    "categories": ["Cloud Computing"],
+    "author": "halukerenozlu",
+    "description": {
+        "title": "SaaS (Software as a Service)",
+        "texts": [
+            "Software as a Service (SaaS) is a cloud-based software delivery model where applications are hosted by a service provider and made available to customers over the internet. Users access the software through a web browser without needing to install, maintain, or update it locally.",
+            "SaaS eliminates the need for organizations to install and run applications on their own computers or data centers, reducing costs associated with hardware, software licensing, installation, and maintenance. Common examples include Gmail, Salesforce, Slack, and Microsoft 365. The provider manages all infrastructure, security, and updates while customers pay on a subscription basis."
+        ],
+        "image": "",
+        "references": [
+            "https://en.wikipedia.org/wiki/Software_as_a_service",
+            "https://aws.amazon.com/what-is/saas/"
+        ]
+    }
+}

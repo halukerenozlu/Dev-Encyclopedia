@@ -1,0 +1,18 @@
+{
+    "title": "PaaS (Platform as a Service)",
+    "subtext": "Cloud platform for building and deploying applications",
+    "categories": ["Cloud Computing"],
+    "author": "halukerenozlu",
+    "description": {
+        "title": "PaaS (Platform as a Service)",
+        "texts": [
+            "Platform as a Service (PaaS) is a cloud computing model that provides developers with a complete platform—including hardware, software, and infrastructure—for building, deploying, and managing applications without the complexity of maintaining the underlying infrastructure.",
+            "PaaS offerings typically include development tools, database management systems, middleware, operating systems, and server infrastructure. Popular examples include Heroku, Google App Engine, and AWS Elastic Beanstalk. This model allows developers to focus on writing code and business logic while the platform handles scaling, security patches, and infrastructure management."
+        ],
+        "image": "",
+        "references": [
+            "https://en.wikipedia.org/wiki/Platform_as_a_service",
+            "https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-paas"
+        ]
+    }
+}

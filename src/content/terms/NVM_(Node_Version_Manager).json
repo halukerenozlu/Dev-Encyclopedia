@@ -1,0 +1,17 @@
+{
+    "title": "NVM (Node Version Manager)",
+    "subtext": "Node.js version management tool for projects",
+    "categories": ["Tools"],
+    "author": "halukerenozlu",
+    "description": {
+        "title": "NVM (Node Version Manager)",
+        "texts": [
+            "NVM (Node Version Manager) is a tool that allows developers to easily install, manage, and work with multiple Node.js versions. Whether you need to test your application across different Node.js versions or work on projects with specific version requirements, NVM makes it simple to switch between environments."
+        ],
+        "image": "",
+        "references": [
+            "https://www.nvmnode.com/",
+            "https://www.freecodecamp.org/news/node-version-manager-nvm-install-guide/"
+        ]
+    }
+}

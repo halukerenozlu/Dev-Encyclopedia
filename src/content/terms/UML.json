@@ -1,0 +1,18 @@
+{
+    "title": "UML (Unified Modeling Language)",
+    "subtext": "Standard for expressing software architecture with diagrams",
+    "categories": ["Design"],
+    "author": "halukerenozlu",
+    "description": {
+        "title": "UML (Unified Modeling Language)",
+        "texts":[
+            "The Unified Modeling Language is a collection of methods that define and explain how business systems can be modeled.",
+            "UML simplifies complexities, keeps communication channels open, automates the production of software and processes, helps resolve persistent architectural issues, improves work quality, and reduces costs and time to market."
+        ],
+        "image": "https://www.drawio.com/assets/img/blog/class-diagram-example.png",
+        "references": [
+            "https://tr.wikipedia.org/wiki/UML",
+            "https://miro.com/diagramming/what-is-a-uml-diagram/"
+        ]
+    }
+}

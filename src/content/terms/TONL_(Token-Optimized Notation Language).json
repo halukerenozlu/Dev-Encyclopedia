@@ -1,0 +1,17 @@
+{
+    "title": "TONL (Token-Optimized Notation Language)",
+    "subtext": "TONL is a production-ready data platform for LLM",
+    "categories": ["Artificial Intelligence"],
+    "author": "halukerenozlu",
+    "description": {
+        "title": "TONL (Token-Optimized Notation Language)",
+        "texts": [
+            "TONL is a production-ready data platform that combines compact serialization with powerful query, modification, indexing, and streaming capabilities. Designed for LLM token efficiency while providing a rich API for data access and manipulation."
+        ],
+        "image": "https://github.com/tonl-dev/tonl/raw/main/readme.png",
+        "references": [
+            "https://tonl.dev/",
+            "https://github.com/tonl-dev/tonl"
+        ]
+    }
+}
